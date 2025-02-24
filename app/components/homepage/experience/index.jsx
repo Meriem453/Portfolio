@@ -1,10 +1,11 @@
 // @flow strict
-
+"use client";
 import { experiences } from "@/utils/data/experience";
 import Image from "next/image";
 import { BsPersonWorkspace } from "react-icons/bs";
 import experience from '../../../assets/lottie/code.json';
-import AnimationLottie from "../../helper/animation-lottie";
+import dynamic from "next/dynamic";
+const AnimationLottie = dynamic(() => import("../../helper/animation-lottie"), { ssr: false });
 import GlowCard from "../../helper/glow-card";
 
 function Experience() {
