@@ -8,13 +8,13 @@ export const projectsData = [
     {
         id: 2,
         name: 'THM: Junior Penetration Tester',
-        coverImage:'/thm1.png',
+        coverImage:'/thm1.PNG',
         url:'https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RRBA0FHARO.pdf'
     },
     {
         id: 3,
         name: 'THM: Web Fundamentals',
-        coverImage:'/thm2.png',
+        coverImage:'/thm2.PNG',
         url:'https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-PQJADH8H0X.png'
     }
 ];
