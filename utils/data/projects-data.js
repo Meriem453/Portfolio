@@ -2,7 +2,7 @@ export const projectsData = [
     {
         id: 1,
         name: 'CCNA 1: Intriduction to Networks',
-        coverImage:'/ccna.svg',
+        coverImage:'/ccna.JPG',
         url:'https://www.credly.com/badges/5f8e7c1b-3ef3-4e82-af6a-3a9820f4f20c/public_url'
     },
     {
