@@ -3,7 +3,7 @@ export const experiences = [
     id: 1,
     title: 'Backend Developer',
     company: "Add Technology Hyperpro.",
-    duration: "(January 2025 - Present)"
+    duration: "(January 2025 - March 2025)"
   },
   {
     id: 2,
