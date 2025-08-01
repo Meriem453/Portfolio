@@ -9,7 +9,7 @@ export const experiences = [
     id: 2,
     title: 'Backend Developer Intern',
     company: "Thynk Tech DZ.",
-    duration: "(September 2024 - Present)"
+    duration: "(September 2024 - December 2024)"
   },
   {
     id: 3,
