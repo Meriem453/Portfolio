@@ -1,7 +1,7 @@
 export const personalData = {
   name: "Meriem ZEMANE",
   profile: "/profile.jpg",
-  designation: "Backend/Mobile & Cyber Security Enthusiast",
+  designation: "Backend/Mobile Developer & Cyber Security Enthusiast",
   description:"I am Meriem ,a software developer specializing in mobile and backend development, currently in my fourth year of Computer Engineering, with a focus on cybersecurity. My journey in tech began at 16, solving HackerRank challenges in Java and C++ and writing Bash scripts. Over time, I explored JavaFX for desktop apps, Android development (Java, Kotlin), and backend development, aiming for a full-stack role." +
       "\n" +
       "Passionate about cybersecurity, I actively solve TryHackMe CTFs and analyze system vulnerabilities. I am deeply curious and love solving complex problems to build secure, efficient solutions. My goal is to merge software engineering with security, ensuring both innovation and resilience." +
