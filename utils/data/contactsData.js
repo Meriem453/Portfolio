@@ -1,7 +1,7 @@
 export const contactsData = {
     email: 'buis.meriem.03@gmail.com',
     phone: '+213 562376017',
-    address: 'Theniet El Had, Tissemsilt, Algeria - 38003 ',
+    address: 'Tissemsilt, Algeria - 38003 ',
     github: 'https://github.com/Meriem453',
     //facebook: 'https://www.facebook.com/abusaid.riyaz/',
     linkedIn: 'https://www.linkedin.com/in/meriem-zemane-973243248/',
