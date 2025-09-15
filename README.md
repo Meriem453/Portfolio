@@ -13,7 +13,7 @@ This portfolio is designed to present my work in a clean and interactive way. It
 
 ## 🛠️ Technologies Used
 - **Frontend:** React.js / Next.js
-- **Hosting:** Render.com
+- **Hosting:** Railway.com
 
 ## 🌐 Live Demo
 You can check out the live version [here](https://portfolio-zemane.up.railway.app).
