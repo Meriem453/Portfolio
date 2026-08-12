@@ -1,12 +1,12 @@
 export const personalData = {
   name: "Meriem ZEMANE",
   profile: "/profile.jpg",
-  designation: "Backend/Mobile Developer & Cyber Security Enthusiast",
-  description:"I am Meriem ,a software developer specializing in mobile and backend development, currently in my fourth year of Computer Engineering, with a focus on cybersecurity. My journey in tech began at 16, solving HackerRank challenges in Java and C++ and writing Bash scripts. Over time, I explored JavaFX for desktop apps, Android development (Java, Kotlin), and backend development, aiming for a full-stack role." +
+  designation: "Cybersecurity Engineer & Full-Stack developer",
+  description:"I am Meriem, a computer science graduate specializing in cybersecurity and a proficient full-stack developer. My journey in tech began at 16, solving HackerRank challenges in Java and C++ and writing Bash scripts. Over time, I explored JavaFX for desktop apps, Android development (Java, Kotlin), and backend development, building real, hands-on software engineering experience before moving into web application security and SOC work — a foundation that now lets me understand systems from both the builder's and the attacker's perspective. I am currently preparing security certifications and actively solving CTFs on platforms like TryHackMe, aiming for cloud security." +
       "\n" +
-      "Passionate about cybersecurity, I actively solve TryHackMe CTFs and analyze system vulnerabilities. I am deeply curious and love solving complex problems to build secure, efficient solutions. My goal is to merge software engineering with security, ensuring both innovation and resilience." +
+      "I am deeply curious and love solving complex problems to build secure, efficient solutions or uncover vulnerabilities, ensuring both innovation and resilience." +
       "\n" +
-      "I constantly look for mistakes, bugs in code, vulnerabilities in systems, networks...Exploring different possibilities and new ways to approach problems keeps me engaged, conscious, and open-minded. Coding is an endless puzzle with infinite solutions. " ,
+      "I constantly look for mistakes, bugs in code, vulnerabilities in systems, networks...Exploring different possibilities and new ways to approach problems keeps me engaged, conscious, and open-minded. " ,
   email: 'buis.meriem.03@gmail.com',
   phone: '+213 562376017',
   address: 'Tissemsilt, Algeria - 38003 ',
