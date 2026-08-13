@@ -88,6 +88,7 @@ import burpSuite from '../app/assets/svg/skills/burpsuite.svg';
 import metasploit from '../app/assets/svg/skills/metasploit.svg';
 import wireshark from '../app/assets/svg/skills/wireshark.svg';
 import kaliLinux from '../app/assets/svg/skills/kali.svg';
+import ubuntu from '../app/assets/svg/skills/ubuntu.svg';
 
 
 
@@ -96,6 +97,8 @@ export const skillsImage = (skill) => {
   switch (skillID) {
     case 'gcp':
       return gcp;
+      case 'ubuntu':
+        return ubuntu;
     case 'html':
       return html;
     case 'photoshop':
