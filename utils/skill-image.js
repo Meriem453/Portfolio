@@ -82,6 +82,12 @@ import linux from '../app/assets/svg/skills/linux.svg'
 import sqlalchemy from '../app/assets/svg/skills/sqlalchemy.svg'
 import fastapi from '../app/assets/svg/skills/fastapi.svg'
 import compose from '../app/assets/svg/skills/compose.svg'
+import nodejs from '../app/assets/svg/skills/nodejs.svg';
+import nmap from '../app/assets/svg/skills/nmap.svg';
+import burpSuite from '../app/assets/svg/skills/burpsuite.svg';
+import metasploit from '../app/assets/svg/skills/metasploit.svg';
+import wireshark from '../app/assets/svg/skills/wireshark.svg';
+import kaliLinux from '../app/assets/svg/skills/kali.svg';
 
 
 
@@ -108,8 +114,10 @@ export const skillsImage = (skill) => {
       return angular;
     case 'javascript':
       return javascript;
+    case 'nextjs':
     case 'next js':
       return nextJS;
+    case 'nuxtjs':
     case 'nuxt js':
       return nuxtJS;
     case 'react':
@@ -254,6 +262,21 @@ export const skillsImage = (skill) => {
       return fastapi;
     case 'compose':
       return compose;
+    case 'nodejs':
+    case 'node js':
+      return nodejs;
+    case 'nmap':
+      return nmap;
+    case 'burpsuite':
+    case 'burp suite':
+      return burpSuite;
+    case 'metasploit':
+      return metasploit;
+    case 'wireshark':
+      return wireshark;
+    case 'kali':
+    case 'kali linux':
+      return kaliLinux;
     default:
       break;
   }

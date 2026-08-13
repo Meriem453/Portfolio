@@ -7,7 +7,7 @@ export const personalData = {
       "I am deeply curious and love solving complex problems to build secure, efficient solutions or uncover vulnerabilities, ensuring both innovation and resilience." +
       "\n" +
       "I constantly look for mistakes, bugs in code, vulnerabilities in systems, networks...Exploring different possibilities and new ways to approach problems keeps me engaged, conscious, and open-minded. " ,
-  email: 'buis.meriem.03@gmail.com',
+  email: 'meriemzemane@gmail.com',
   phone: '+213 562376017',
   address: 'Tissemsilt, Algeria - 38003 ',
   github: 'https://github.com/Meriem453',
@@ -18,6 +18,6 @@ export const personalData = {
   stackOverflow: 'https://stackoverflow.com/users/15108026/meriem?tab=profile',
   hackerrank: "https://www.hackerrank.com/profile/Mezspire",
   devUsername: "Meriem453",
-  resume: "https://drive.google.com/file/d/1GeNgVbhsAOvBK8qmSbirTNcy5iVzOLkJ/view?usp=drive_link",
+  resume: "https://drive.google.com/file/d/17GbnmwmVSnex4dCj7_wYeKPqPUJREVGA/view?usp=sharing",
   thm: "https://tryhackme.com/p/N0BODY",
 }
