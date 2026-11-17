@@ -3,6 +3,13 @@ import Image from "next/image";
 import Link from "next/link";
 import { BsPersonWorkspace } from "react-icons/bs";
 
+export const metadata = {
+  alternates: {
+    canonical: "/experience",
+  },
+};
+
+
 export async function generateStaticParams() {
   return experiences.map((experience) => ({
     id: experience.id.toString(),
