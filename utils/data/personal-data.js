@@ -18,6 +18,6 @@ export const personalData = {
   stackOverflow: 'https://stackoverflow.com/users/15108026/meriem?tab=profile',
   hackerrank: "https://www.hackerrank.com/profile/Mezspire",
   devUsername: "Meriem453",
-  resume: "https://drive.google.com/file/d/17GbnmwmVSnex4dCj7_wYeKPqPUJREVGA/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1W3_PRWVOPH6iOF5q1I_0G3h3oaK-EKyN/view?usp=drive_link",
   thm: "https://tryhackme.com/p/N0BODY",
 }
