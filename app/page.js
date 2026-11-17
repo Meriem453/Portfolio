@@ -15,6 +15,19 @@ export const metadata = {
   },
 };
 
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Person",
+  name: "Your Name",
+  url: "https://portfolio-meriem-zemane.vercel.app",
+  jobTitle: "Cybersecurity Engineer",
+  description: "Cybersecurity Engineer and Full-Stack Developer",
+  sameAs: [
+    "https://github.com/Meriem453",
+    "https://www.linkedin.com/in/meriem-zemane-973243248/",
+    // add X/Twitter, Dev.to, etc.
+  ],
+};
 
 async function getData() {
   const res = await fetch(`https://dev.to/api/articles?username=${personalData.devUsername}`)
@@ -35,6 +48,12 @@ export default async function Home() {
 
   return (
     <div suppressHydrationWarning >
+    <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(jsonLd).replace(/</g, "\\u003c"),
+        }}
+      />
       <HeroSection />
       <AboutSection />
         <Projects />
