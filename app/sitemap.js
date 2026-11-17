@@ -1,8 +1,6 @@
-import type { MetadataRoute } from "next";
-
 const baseUrl = "https://portfolio-meriem-zemane.vercel.app";
 
-export default function sitemap(): MetadataRoute.Sitemap {
+export default function sitemap() {
   return [
     {
       url: baseUrl,
@@ -12,6 +10,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
     // Add one entry per page you have, for example:
     { url: `${baseUrl}`, lastModified: new Date(), priority: 0.8 },
-    { url: `${baseUrl}/experience`, lastModified: new Date(), priority: 0.8 },
+    { url: `${baseUrl}/experience`, lastModified: new Date(), priority: 0.8 }
   ];
 }
