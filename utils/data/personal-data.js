@@ -2,7 +2,7 @@ export const personalData = {
   name: "Meriem ZEMANE",
   profile: "/profile.jpg",
   designation: "Cybersecurity Engineer & Full-Stack developer",
-  description:"I am Meriem, a computer science graduate specializing in cybersecurity and a proficient full-stack developer. My journey in tech began at 16, solving HackerRank challenges in Java and C++ and writing Bash scripts. Over time, I explored JavaFX for desktop apps, Android development (Java, Kotlin), and backend development, building real, hands-on software engineering experience before moving into web application security and SOC work — a foundation that now lets me understand systems from both the builder's and the attacker's perspective. I am currently preparing security certifications and actively solving CTFs on platforms like TryHackMe, aiming for cloud security." +
+  description:"I am Meriem, a computer science graduate specializing in cybersecurity and a proficient full-stack developer. My journey in tech began at 16, solving HackerRank challenges in Java and C++ and writing Bash scripts. Over time, I explored JavaFX for desktop apps, Android development (Java, Kotlin), and backend development, building real, hands-on software engineering experience before moving into web application security and SOC work — a foundation that now lets me understand systems from both the builder's and the attacker's perspective. I am currently preparing security certifications and actively solving CTFs on platforms like TryHackMe." +
       "\n" +
       "I am deeply curious and love solving complex problems to build secure, efficient solutions or uncover vulnerabilities, ensuring both innovation and resilience." +
       "\n" +
