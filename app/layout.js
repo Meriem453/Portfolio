@@ -10,9 +10,20 @@ import "./css/globals.scss";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Zemane Meriem Portfolio",
+  metadataBase: new URL("https://portfolio-meriem-zemane.vercel.app"),
+  title: {
+    default: "Meriem ZEMANE – Cybersecurity Engineer",
+    template: "%s | Meriem ZEMANE",
+  },
   description:
-    "Zemane Meriem Portfolio.",
+    "Meriem ZEMANE is a Cybersecurity Engineer and Full-Stack Developer.",
+  openGraph: {
+    title: "Meriem ZEMANE – Cybersecurity Engineer",
+    description: "Portfolio of Meriem ZEMANE.",
+    url: "https://portfolio-meriem-zemane.vercel.app",
+    siteName: "Meriem ZEMANE",
+    type: "website",
+  },
 };
 
 export default function RootLayout({ children }) {
