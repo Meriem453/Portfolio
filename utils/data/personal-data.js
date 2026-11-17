@@ -7,9 +7,9 @@ export const personalData = {
       "I am deeply curious and love solving complex problems to build secure, efficient solutions or uncover vulnerabilities, ensuring both innovation and resilience." +
       "\n" +
       "I constantly look for mistakes, bugs in code, vulnerabilities in systems, networks...Exploring different possibilities and new ways to approach problems keeps me engaged, conscious, and open-minded. " ,
-  email: 'meriemzemane@gmail.com',
+  email: 'buis.meriem.03@gmail.com',
   phone: '+213 562376017',
-  address: 'Tissemsilt, Algeria - 38003 ',
+  address: 'Algiers, Algeria',
   github: 'https://github.com/Meriem453',
   linkedIn: 'https://www.linkedin.com/in/meriem-zemane-973243248/',
   discord: 'https://discordapp.com/users/694603506996347022',
