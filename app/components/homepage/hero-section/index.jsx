@@ -137,19 +137,19 @@ function HeroSection() {
                 <span className="text-gray-400">{`['`}</span>
                 <span className="text-amber-300">Cybersecurity</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Penetration Testing</span>
+                <span className="text-amber-300">Threat Detection</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">AWS</span>
+                <span className="text-amber-300">Identity and Access Management</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Docker</span>
+                <span className="text-amber-300">Active Directory</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Kubernetes</span>
+                <span className="text-amber-300">Linux Hardening</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Linux</span>
+                <span className="text-amber-300">Security Operations</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">NodeJS</span>
+                <span className="text-amber-300">Blue Team</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Python</span>
+                <span className="text-amber-300">Network Security</span>
                 <span className="text-gray-400">{"'],"}</span>
               </div>
               <div>
