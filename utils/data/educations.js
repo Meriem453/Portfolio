@@ -7,7 +7,7 @@ export const educations = [
   },
   {
     id: 2,
-    title: "Math-Thechnical baccalaureate in Mechanical Engineering",
+    title: "Math-Thechnical baccalaureate",
     duration: "2021",
     institution: "Grade: Excellent 18.20/20",
   }
