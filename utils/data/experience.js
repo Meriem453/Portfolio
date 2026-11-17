@@ -16,7 +16,7 @@ export const experiences = [
     id: 2,
     title: 'Cyber Security Intern',
     company: "SONATRACH",
-    duration: "(March 2026 - November 2025)",
+    duration: "(March 2026 - May 2026)",
     description: [
       "Completed my final studies internship within SONATRACH’s Information Security Department at the Haoud El Hamra Regional Division.",
       "Designed the architecture of a centralized Security Alerts Management Platform tailored to SONATRACH’s security workflow.",
@@ -39,7 +39,7 @@ export const experiences = [
     id: 3,
     title: 'DevOps and Security Intern',
     company: "Kleer Infini",
-    duration: "(July 2025 - November 2025)",
+    duration: "(August 2025 - November 2025)",
     description: [
       "Backend Deployment and Management: Setup, configuration, and deployment of Django backend services; ensuring high availability, performance optimization, and secure integration with PostgreSQL databases.",
       "Frontend Integration: Build and deployment of React applications, linking frontend with backend, and testing of all interactive pages.",
