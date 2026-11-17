@@ -18,7 +18,7 @@ export const metadata = {
 const jsonLd = {
   "@context": "https://schema.org",
   "@type": "Person",
-  name: "Your Name",
+  name: "Meriem ZEMANE",
   url: "https://portfolio-meriem-zemane.vercel.app",
   jobTitle: "Cybersecurity Engineer",
   description: "Cybersecurity Engineer and Full-Stack Developer",
