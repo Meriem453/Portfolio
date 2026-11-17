@@ -147,7 +147,7 @@ function HeroSection() {
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Security Operations</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Blue Team</span>
+                <span className="text-amber-300">Web Security</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Network Security</span>
                 <span className="text-gray-400">{"'],"}</span>
