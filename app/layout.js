@@ -24,8 +24,10 @@ export const metadata = {
     siteName: "Meriem ZEMANE",
     type: "website",
   },
+   verification: {
+    google: "oOs2cbGAS9cOYSwWzpk-anXnt1ocK7MD8vbXNxDv_pM",
+  },
 };
-
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
